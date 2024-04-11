@@ -1,0 +1,5 @@
+the recipe app inquire the user to enter the number of ingredients,enter details for ingrdients,quantity,units and many more,
+In addition, the program asks the user to indicate how many steps are needed to complete the recipe. After that,
+ it displays the menu and the additional recipe.
+
+https://github.com/ST10386008/RECIPEAPP
