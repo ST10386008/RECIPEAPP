@@ -10,10 +10,10 @@ Subscribes to the 'RecipeExceedsCaloriesEvent' of the selected recipe and checks
 The code enables users to create and manage recipes, such as adding ingredients and steps, viewing recipe details, calculating total calories, and receiving notifications if a recipe exceeds a calorie limit.
 The code now features a more complex design. The Ingredient class now has characteristics for calories and food groups, and a new Step class handles step descriptions. The Recipe class now includes properties for name, ingredient and step lists, and event handling to inform when total calories surpass 300. 
 Ingredients and steps can now be added, recipe details displayed, total calories calculated, and calorie limits checked.
-The primary program now allows users to create numerous recipes, enter details interactively, sort recipes alphabetically, choose a recipe to display, calculate and display total calories, and receive warnings when recipes exceed 300 calories. 
+The primary program now allows users to create numerous recipes, enter details interactively, sort recipes alphabetically, choose a recipe to display, calculate and display total calories, and receive warnings when recipes exceed 300 calories.The user is able to filter the list of recipes by entering the name of an ingredient that must be in the recipe,choosing a food group that must be in the recipe, or selecting a maximum number of calories.  
 Overall, the code provides a more comprehensive and user-friendly recipe management system, including additional tools for recording nutritional information.
 
-https://github.com/ST10386008/RECIPEAPP
+
 
 
 
